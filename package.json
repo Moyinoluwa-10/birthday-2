@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piyush168713/happy-birthday.git"
+    "url": "git+https://github.com/Moyinoluwa-10/birthday-2.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Piyush Kumar",
+  "author": "Moyinoluwa Adelowo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/piyush168713/happy-birthday/issues"
+    "url": "https://github.com/Moyinoluwa-10/birthday-2/issues"
   },
-  "homepage": "https://github.com/piyush168713/happy-birthday#readme",
+  "homepage": "https://github.com/Moyinoluwa-10/birthday-2#readme",
   "dependencies": {}
 }
